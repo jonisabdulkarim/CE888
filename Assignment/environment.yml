@@ -1,0 +1,7 @@
+name: ce888
+dependencies:
+  - python=3.8.*
+  - numpy
+  - pandas
+  - matplotlib
+  - tensorflow
