@@ -2,7 +2,7 @@
 The purpose of this project is to help firefighters detect wildfires using images captured from drones.
 
 To run the latest program:
-python ./ProvidedModel.py
+python ./ce888_notebook.py
 
 To obtain image dataset, go to IEEE dataport site:
 https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs
